@@ -29,7 +29,7 @@ The ability to work in multitasking mode and high analytical skills allow me to 
 ### Frontend Developer | **Freelancer**
 *February 2020 - ...*  
 Creation of responsive and cross-browser HTML-pages of the site using the BEM methodology based on design layouts. The layout of sites and templates for WordPress. Binding scripts to the user interface that provide visualization and animation of site pages. Creation of CSS animation. Working with projects via FTP.  
-Link to my UPWORK profile: <https://upwork.com/o/proles/users/~0135a9d5177eb9c3f0/>
+Link to my UPWORK profile: <https://upwork.com/o/profiles/users/~0135a9d5177eb9c3f0/>
 ## Education
 Minsk Institute of Management  
 **Economist-marketer**  
