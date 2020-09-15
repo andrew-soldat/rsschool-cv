@@ -1,1 +1,1 @@
-https://github.com/andrew-soldat/rsschool-cv/cv
+https://andrew-soldat.github.io/rsschool-cv/
