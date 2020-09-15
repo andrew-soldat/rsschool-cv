@@ -2,7 +2,7 @@
  
 ## Contacts
 * mail: <blishch.andrew@gmail.com>
-* tel: +375(29)1495350
+* tel: <+375291495350>
  
 ## Summary
 The ability to work in multitasking mode and high analytical skills allow me to work effectively with large amounts of information, quickly find high-quality solutions to complex problems. I am attentive to completing tasks. Responsible, decent, easy to learn. There is a great desire to learn, develop, earn.
